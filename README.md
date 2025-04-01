@@ -4,6 +4,8 @@ Aplikacja api
 ## Instrukcja 
 .cli/fetcher
 ## Komend
+
 Np. '''--fetch --url'''
 
 ## Zmiana
+
