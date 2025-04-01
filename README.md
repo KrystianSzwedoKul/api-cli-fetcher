@@ -5,3 +5,5 @@ Aplikacja api
 .cli/fetcher
 ## Komend
 Np. '''--fetch --url'''
+
+## Zmiana
